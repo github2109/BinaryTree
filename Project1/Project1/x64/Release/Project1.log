@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(13,1): warning C4005: 'MAX': macro redefinition
+C:\opencv\build\include\opencv2\core\cvdef.h(489): message : see previous definition of 'MAX'
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(272,45): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(272,85): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(273,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(275,55): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(276,36): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(279,55): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(280,36): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(282,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\Project1\main.cpp(270,6): warning C4101: 'i': unreferenced local variable
+  Generating code
+  0 of 256 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Hi-XV\OneDrive - The University of Technology\Desktop\New folder\Project1\x64\Release\Project1.exe
